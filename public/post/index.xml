@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | some.egregious.website</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hua42834bdb1f7e874bc747a5cf5f43a55_563001_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Mirror rorriM</title>
+      <link>/post/2020-10-08-mirrormirror/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-10-08-mirrormirror/</guid>
+      <description>&lt;p&gt;Local man and popular photographer John Picken returned home only to find his living room mirror has been installed backwards!&lt;/p&gt;
+&lt;h3 id=&#34;grave-concern&#34;&gt;Grave Concern&lt;/h3&gt;
+&lt;p&gt;Mr. Picken was not interviewed for this exclusive report but our investigative team was able to have lunch close to the scene of this breaking story. Analysis of speculation around the lunch table reveals grave concern that&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the mirror was not installed correctly&lt;/li&gt;
+&lt;li&gt;the mirror is not being used correctly&lt;/li&gt;
+&lt;li&gt;reflecting light is a story best left to science journalists&lt;/li&gt;
+&lt;li&gt;or both&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While no one knows how mirrors 
+&lt;a href=&#34;https://science.howstuffworks.com/innovation/everyday-innovations/mirror1.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;actually work&lt;/a&gt;, this particular installation might not be right.&lt;/p&gt;
+&lt;h3 id=&#34;recurring-local-problem&#34;&gt;Recurring Local Problem&lt;/h3&gt;
+&lt;p&gt;Mirror image quality problems are not new to the area&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./bean1.jpg&#34; alt=&#34;theBean&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Officials are investigating.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./maze.jpg&#34; alt=&#34;theBean&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Find recommended mirror installation teams 
+&lt;a href=&#34;https://en.wikipedia.org/wiki/Rickrolling#/media/File:RickRoll.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;in your area&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
