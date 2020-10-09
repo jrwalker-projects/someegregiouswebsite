@@ -31,9 +31,9 @@ design:
 {{< figure library="true" src="logo1.jpg" title="" >}}
 
 {{% alert success %}}
-some egregious website
+some egregious website - where Breaking News comes to be broken
 
-If it's on the Internet it must be true. That's the Law!
+If it's on the Internet, by law it's probably true.
 {{% /alert %}}
 
 {{% alert warning %}}
