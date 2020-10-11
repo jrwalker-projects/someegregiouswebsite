@@ -20,6 +20,8 @@ tags:
 title: 'Mirror rorriM'
 ---
 
+<sub><sup>Photo [Miroir rioriM "Ceci n'est pas un selfie"](https://www.flickr.com/photos/picken/50433006281/in/dateposted/) :copyright: 2020 [JohnPickenPhotos](https://www.flickr.com/photos/picken/)</sup></sub>    
+
 A local man and popular photographer returned home only to find his living room mirror has been installed backwards!
 
 ### Grave Concern
@@ -40,14 +42,6 @@ Mirror image quality problems are not new to the area
 Officials are investigating.
 
 ![theBean](./maze.jpg)
-
----
-**Photo Credit**
-
-[JohnPickenPhotos](https://www.flickr.com/photos/picken/) on Flickr [Mirror rorriM "Ceci n'est pas un selfie"](https://www.flickr.com/photos/picken/50433006281/in/dateposted/)      
-:copyright: 2020 JohnPickenPhotos
-
----
 
 
 ---
