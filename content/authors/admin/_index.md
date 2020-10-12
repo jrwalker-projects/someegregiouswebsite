@@ -1,5 +1,10 @@
 ---
 bio: World's finest reporter, guardian of our freedoms
+# Interests to show in About widget
+interests:
+- Righting wrongs
+- Breaking the News
+- A single malt that pairs nicely with breaking the news
 education:
   courses:
   - course: Master of Truth Telling
@@ -16,6 +21,11 @@ social:
   link: /#contact
 superuser: true
 title: Frankie Beale
+# Role/position/tagline
+role: World's finest reporter
+user_groups:
+- Principal Investigators
+
 ---
 
-Frankie is the world's finest reporter ever, though at this time he might not be the only reporter. Frankie has a long and distinguished career in media following in the footsteps of his illustrious father Howard. 
+Frankie is the world's finest reporter ever, though at this time he might not be the only reporter. Frankie has a long and distinguished career in media following in the footsteps of his illustrious father Howard.
