@@ -28,4 +28,4 @@ user_groups:
 - Senior Editorial
 ---
 
-Valentina reports the world through a Latin American lens. Documentation of her social media activity accounts for exactly two-thirds of the material in the Library of Congress.
+Critically reviewed journalist Valentina reports the world through a Latin American lens. Documentation of her social media activity accounts for exactly two-thirds of the material in the Library of Congress.

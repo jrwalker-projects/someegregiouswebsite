@@ -8,9 +8,13 @@
   url = "#posts"
   weight = 20
 [[main]]
-  name = "Meet the Team"
+  name = "The News Team"
   url = "#people"
   weight = 60
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 200
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
