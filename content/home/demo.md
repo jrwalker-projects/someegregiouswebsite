@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -29,13 +29,3 @@ design:
 ---
 
 {{< figure library="true" src="logo1.jpg" title="" >}}
-
-{{% alert success %}}
-some egregious website - where Breaking News comes to be broken
-
-If it's on the Internet, by law it's probably true.
-{{% /alert %}}
-
-{{% alert warning %}}
-Warning: It's pretty egregious
-{{% /alert %}}

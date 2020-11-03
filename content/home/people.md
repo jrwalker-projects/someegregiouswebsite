@@ -16,7 +16,7 @@ subtitle = "The People Breaking the News"
   user_groups = ["Principal Investigators",
                  "Senior Editorial",
                  "Researchers",
-                 "Interns"]
+                 "Junior Interns"]
 
 [design]
   # Show user's social networking links? (true/false)
