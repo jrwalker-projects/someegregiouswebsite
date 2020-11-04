@@ -12,8 +12,8 @@ image:
   focal_point: ""
 lastmod: "2020-10-29T00:00:00Z"
 projects: []
-subtitle: Blog Magic is the Best
-summary: Magic on the Web
+subtitle: Blog Magic at its Best
+summary: Magic, in blog form
 tags:
 - Web Magic
 - Distraction
@@ -68,6 +68,5 @@ Is **this** your card!?
 
 ![Reaction](./7hearts.png)
 
-..and that's how it's done ladies and gentlemen.
-
-Thank You
+How is it done? Magic. In this case starting with Tim Berners-Lee <br>
+on thru to the friendly people at netlify.com
